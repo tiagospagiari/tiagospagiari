@@ -155,17 +155,10 @@
 ##
 <br>
 <br>
-<div align="center">
-  <a href="https://beacons.ai/pedromedina19">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedromedina19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromedina19&layout=compact&langs_count=16&theme=dracula"/>
-  
 
-</div>
     
-<br>
-<br>
-<h3 align="center">Você é o visitante:</h3>
+
+<h3 align="center">Bem vindo!:</h3>
 <p align="center">
 
 </p>
