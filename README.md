@@ -44,7 +44,13 @@
                         <small>JavaScript</small>
   </td>
   
-     
+         <td align="center" width="120px">
+    <p>
+        <img align="center" alt="Python" height="35" width="auto"
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/python-original.svg">
+    </p>
+    <small>Spring</small>
+       </td>
  
  <td align="center" width="120px">
     <p>
@@ -137,12 +143,7 @@
     </p>
     <small>Spring</small>
   </td>
-    <td align="center" width="120px">
-    <p>
-        <img align="center" alt="Python" height="35" width="auto"
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/python-original.svg">
-    </p>
-    <small>Spring</small>
+
   <td align="center" width="120px">
     <p>
         <img align="center" alt="Angular" height="35" width="auto"
