@@ -51,19 +51,8 @@
     </p>
     <small>Mysql</small>
   </td>
-  <td align="center" width="120px">
-    <p>
-        <img align="center" alt="NodeJS" height="35" width="auto"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    </p>
-    <small>NodeJS</small>
-  </td>
 
-                        <p>
-                            <img align="center" alt="PostgreSQL" height="50" width="auto" style="color:white"
-                                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-                        </p>
-                        <small>PostgreSQL</small>
+
  
   </table>
       
