@@ -20,7 +20,7 @@
     
 <br>
 <br>
-#
+
 <br>
 <br>
 <div style="display: inline_block; margin-bottom: 14em;" align="center">
@@ -137,6 +137,12 @@
     </p>
     <small>Spring</small>
   </td>
+    <td align="center" width="120px">
+    <p>
+        <img align="center" alt="Python" height="35" width="auto"
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/python-original.svg">
+    </p>
+    <small>Spring</small>
   <td align="center" width="120px">
     <p>
         <img align="center" alt="Angular" height="35" width="auto"
@@ -152,13 +158,13 @@
 </div>
 <br>
 <br>
-##
+
 <br>
 <br>
 
     
 
-<h3 align="center">Bem vindo!:</h3>
+<h3 align="center">Bem vindo!</h3>
 <p align="center">
 
 </p>
